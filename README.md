@@ -6,4 +6,4 @@
 ## LINK YOU TUBE REVIEW SISTEM LOKET ANTRIAN :
 
 ## DEMO WEB HOSTING :
-https://shobahus-loketantrian.rf.gd
+http://shobahus-loketantrian.rf.gd/
