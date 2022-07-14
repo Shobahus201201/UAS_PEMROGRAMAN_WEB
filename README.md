@@ -5,6 +5,6 @@
 
 ## APP SISTEM LOKET ANTRIAN 
 
-**LINK YOU TUBE REVIEW SISTEM LOKET ANTRIAN** => Link PDF => [Click Here](https://youtu.be/Q5I44I6NFZE)
+**LINK YOU TUBE REVIEW SISTEM LOKET ANTRIAN**  => [Click Here](https://youtu.be/Q5I44I6NFZE)
 
 **DEMO WEB HOSTING** => [Click Here](http://shobahus-loketantrian.rf.gd/)
