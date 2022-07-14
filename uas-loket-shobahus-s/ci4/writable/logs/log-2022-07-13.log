@@ -68,3 +68,15 @@ CRITICAL - 2022-07-13 06:58:34 --> Trying to access array offset on value of typ
 #8 C:\xampp\htdocs\uas-loket-shobahus-s\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
 #9 C:\xampp\htdocs\uas-loket-shobahus-s\ci4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
 #10 {main}
+CRITICAL - 2022-07-13 19:28:41 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\UAS_PEMROGRAMAN_WEB\uas-loket-shobahus-s\ci4\app\Views\loket\ambil_loket.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\UAS_PEMROGRAMAN_WEB\uas-loket-shobahus-s\ci4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\UAS_PEMROGRAMAN_WEB\uas-loket-shobahus-s\ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\UAS_PEMROGRAMAN_WEB\uas-loket-shobahus-s\ci4\system\Common.php(1089): CodeIgniter\View\View->render('/loket/ambil_lo...', Array, true)
+#4 C:\xampp\htdocs\UAS_PEMROGRAMAN_WEB\uas-loket-shobahus-s\ci4\app\Controllers\Loket.php(73): view('/loket/ambil_lo...', Array)
+#5 C:\xampp\htdocs\UAS_PEMROGRAMAN_WEB\uas-loket-shobahus-s\ci4\system\CodeIgniter.php(832): App\Controllers\Loket->panggil('<https:', 'pngimage.net', 'wp-content', 'uploads', '2018', '06', 'logo-rumah-saki...')
+#6 C:\xampp\htdocs\UAS_PEMROGRAMAN_WEB\uas-loket-shobahus-s\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Loket))
+#7 C:\xampp\htdocs\UAS_PEMROGRAMAN_WEB\uas-loket-shobahus-s\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\UAS_PEMROGRAMAN_WEB\uas-loket-shobahus-s\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\UAS_PEMROGRAMAN_WEB\uas-loket-shobahus-s\ci4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}

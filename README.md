@@ -3,7 +3,8 @@
 | NIM     | 312010076      |
 | Kelas   | TI.20.A.1        |
 
-## LINK YOU TUBE REVIEW SISTEM LOKET ANTRIAN :
+## APP SISTEM LOKET ANTRIAN 
 
-## DEMO WEB HOSTING :
-http://shobahus-loketantrian.rf.gd/
+**LINK YOU TUBE REVIEW SISTEM LOKET ANTRIAN** => [Click Here] (https://youtu.be/Q5I44I6NFZE)
+
+**DEMO WEB HOSTING** => [Click Here] (http://shobahus-loketantrian.rf.gd/)
